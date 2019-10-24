@@ -1,6 +1,6 @@
 # Video Doorbell, Lab 7
 
-*A lab report by John Q. Student*
+*A lab report by Fabio Daiber*
 
 ### In This Report
 
@@ -12,7 +12,13 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
+[Hello You running](https://drive.google.com/open?id=19aSEgs3In4nkqCfpJuAUOhAdIb4vtToG)
+
 ## Part B. Web Camera
+
+Camera successfully connected: 
+
+![alt text](https://github.com/fpdaiber/IDD-Fa19-Lab7/blob/master/Img01.png)
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
