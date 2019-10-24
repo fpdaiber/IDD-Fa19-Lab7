@@ -87,10 +87,4 @@ We had to put a sweater over the camera and I pressed the button because the cam
 
 [Doorbell Video](https://drive.google.com/open?id=12x0e5TQA8i1Fh5pDagu1qmiF-QDo6l_8)
 
-[My modified code](https://github.com/fpdaiber/IDD-Fa19-Lab7/blob/master/pictureServer_update.js)
-
-## Part C. Make it your own
-
-**a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
-
-**b. Upload a video of your working modified project**
+[My modified code](https://github.com/fpdaiber/IDD-Fa19-Lab7/blob/master/picturerServer_update.js)
